@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I'm Ankit  
 
-<!--
-**ankit-k-git/ankit-k-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI & Deep Learning Enthusiast**  
+I’m passionate about building intelligent systems using **Python, LangChain, LangGraph, and LLMs**. My work revolves around creating **agents, multi-agent workflows**, and exploring the boundaries of **generative AI and automation**.  
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me  
+- 🔬 Skilled in **PyTorch** and **deep learning models**  
+- 🤖 Interested in **reasoning models, agents, and AGI research**  
+- 🌱 Always learning and experimenting with new AI frameworks  
+- 💡 Exploring ideas that connect **automation + intelligence**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack  
+- **Languages:** Python  
+- **AI/ML:** PyTorch, LangChain, LangGraph, LLMs, Deep Learning  
+- **Focus Areas:** Agents, Multi-Agent Systems, Generative AI  
+
+## 📫 Connect with Me  
+- [GitHub](https://github.com/yourusername)  
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+- [Twitter](https://twitter.com/yourtwitter)  
+
+---
+⭐️ From [Ankit](https://github.com/yourusername)
